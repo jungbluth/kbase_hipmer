@@ -2,3 +2,4 @@ test_local
 sdk.cfg
 *.pyc
 v1.0-378-gce5e92d1
+.DS_Store
